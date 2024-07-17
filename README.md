@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently focused on **MERN Stack Development**
 - 📫 How to reach me: nuthannag@gmail.com
 
 ## 🚀 Languages and Tools:

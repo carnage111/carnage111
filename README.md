@@ -5,7 +5,7 @@
   <img src="./img.png" height="300" style="border-radius:50%"/>
 </p>
 
-<h3 align="center">I am a passionate web developer with expertise in HTML, CSS, JavaScript, Bootstrap, and MySQL. My programming skills are primarily focused on Java and JavaScript.
+<h3 align="center">I am a passionate web developer with expertise in HTML, CSS, JavaScript, Bootstrap, and MERN stack. My programming skills are primarily focused on JavaScript and Java.
 </h3>
 
 ## 🙋‍♂️ About Me

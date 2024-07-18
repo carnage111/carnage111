@@ -38,7 +38,7 @@
 
 
 ## 📊 My Github Stats
-
+  ![](https://komarev.com/ghpvc/?username=carnage111)
   <br/>
     <a href="https://github.com/carnage111/github-readme-stats"><img alt="Nuthan Nag' stats" src="https://github-readme-stats.vercel.app/api?username=carnage111&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/carnage111/github-readme-stats"><img alt="Nuthan Nag' stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carnage111&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
